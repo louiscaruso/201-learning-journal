@@ -22,6 +22,12 @@
   * Most website include extra content such as images and videos
 
 # Structure 
-- Some elements used to structure a web page are
-`<html>` 
-  `<body>`
+- Some elements used to structure a web page are:
+```
+<html> </html>
+<body> </body>
+<h1> </h1>
+<p> </p>
+```
+
+
