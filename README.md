@@ -2,7 +2,7 @@
 ### This is my reading notes from 201.
 <hr>
 
-- Daily read 1
+- [Daily read 1](daily-01.md)
 - Daily read 2
 - Daily read 3
 - Daily read 4
