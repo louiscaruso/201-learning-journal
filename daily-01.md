@@ -55,7 +55,7 @@
 - ID Attributes and Class attributes
   * Every HTML element can carry the id attribute
   * Example `<p id="pullquote">`
-    * `<p class="important">
+    * `<p class="important">`
 
 - Meta
   * The `<meta>` element lives inside the `<head>` and contains infomation about the web page
