@@ -4,7 +4,7 @@
 
 - [Daily read 1](daily-01.md)
 - [Daily read 2](daily-02.md)
-- Daily read 3
+- [Daily read 3](daily-03.md)
 - Daily read 4
 - Daily read 5
 - Daily read 6
