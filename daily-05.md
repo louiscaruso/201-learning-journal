@@ -2,7 +2,7 @@
 
 ## Images 
 - The `<img>` element is used to add images to a web page
-  - <img src="img/otter.jpg" alt ="Photo of two sea otters"/>
+  - `<img src="img/otter.jpg" alt ="Photo of two sea otters"/>`
 - You must always specify an scr attribute to indicate the source of an image and an alt attribute to describe the conetent of an image
 - You shold save images at the size you will be using them on the web page and in the appropriate format
 - Photographs are best save as JPEGs; illustration or logos that use flat color are better saved as GIFs
