@@ -39,7 +39,7 @@ GET is better for non-secure data, like query strings in Google
 - Legend element can come directly after the opening `<fieldset>` 
 
 ## Lists, Tables and Forms
-- There are several properties that control sepcifically forms, tables, and forms
+- There are several properties that control specifically forms, tables, and forms
 - List markers can be given different appearances using the list-style-type and list-style image properties
 - Table cells can have different borders and spacing in different browers, but there are properties you can use to comtrol them and make them more comsistent
 - Forms are easier to use if the form controls are vertically aligned using CSS
